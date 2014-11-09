@@ -1,7 +1,7 @@
 Auto Ban
 ===========
 
-Dutch translation of the First post on every page extension by Lucifer4o
+Dutch translation of the Auto Ban extension by Lucifer4o
 
 Installatie
 ===========
