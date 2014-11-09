@@ -1,10 +1,11 @@
 <?php
 /**
 *
-* newspage [Bulgarian]
+* Auto Ban [Dutch]
 *
 * @package language
 * @version $Id$
+* Dutch translation by Dutch Translators (https://github.com/dutch-translators)
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *
 */
